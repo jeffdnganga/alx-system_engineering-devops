@@ -7,3 +7,4 @@
 6-multiple_permissions - adds execute permissions to owner, group owner and read permissions to the rest of the users
 7-everybody - adds execute permissions to the owner, the group owner and the other users
 8-James_Bond - sets no permission to owner and group and all permission to other users
+9-John_Doe - sets mode of hello to -rwxr-x-wx
