@@ -12,3 +12,4 @@
 11-directories_permissions - adds execute permission to all sub directories of the current working directory to owner, group owners and other users
 12-directory_permissions - creates directory called my_dir with permissions 751 in the working directory
 13-change_group - changes group owner of the file hello to school
+100-change_owner_and_group - changes owner to vincent and the group owner to staff for all files and directories in the working directory
