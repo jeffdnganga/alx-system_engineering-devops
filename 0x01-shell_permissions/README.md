@@ -9,3 +9,4 @@
 8-James_Bond - sets no permission to owner and group and all permission to other users
 9-John_Doe - sets mode of hello to -rwxr-x-wx
 10-mirror_permissions - sets mode of hello same as olleh mode
+11-directories_permissions - adds execute permission to all sub directories of the current working directory to owner, group owners and other users
